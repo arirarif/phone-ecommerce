@@ -1,0 +1,134 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/k14wsHg/445316-Product-0-I-638615214609917900-600x600.webp",
+    "category": "Laptops",
+    "price": "999.99",
+    "description": "High-quality laptop",
+    "specification": ["8GB RAM", "256GB SSD"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 2,
+    "product_title": "iPhone 13",
+    "product_image": "https://i.ibb.co.com/k14wsHg/445316-Product-0-I-638615214609917900-600x600.webp",
+    "category": "Phones",
+    "price": "799.99",
+    "description": "Latest iPhone model",
+    "specification": ["128GB Storage", "5G"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 3,
+    "product_title": "Apple Watch Series 7",
+    "product_image": "https://i.ibb.co.com/k14wsHg/445316-Product-0-I-638615214609917900-600x600.webp",
+    "category": "Smart Watches",
+    "price": "399.99",
+    "description": "Smartwatch with fitness tracking",
+    "specification": ["Blood Oxygen Sensor", "GPS"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 4,
+    "product_title": "Samsung Galaxy S22",
+    "product_image": "https://i.ibb.co.com/k14wsHg/445316-Product-0-I-638615214609917900-600x600.webp",
+    "category": "Phones",
+    "price": "899.99",
+    "description": "High-end Samsung phone with AMOLED display",
+    "specification": ["256GB Storage", "8GB RAM", "120Hz Display"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 5,
+    "product_title": "Sony WH-1000XM4",
+    "product_image": "https://i.ibb.co.com/k14wsHg/445316-Product-0-I-638615214609917900-600x600.webp",
+    "category": "Headphones",
+    "price": "349.99",
+    "description": "Noise-cancelling over-ear headphones",
+    "specification": ["30 Hours Battery", "Bluetooth", "Noise Cancellation"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 6,
+    "product_title": "Microsoft Surface Pro 7",
+    "product_image": "https://i.ibb.co.com/k14wsHg/445316-Product-0-I-638615214609917900-600x600.webp",
+    "category": "Tablets",
+    "price": "749.99",
+    "description": "2-in-1 tablet with detachable keyboard",
+    "specification": ["8GB RAM", "128GB SSD", "Intel Core i5"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 7,
+    "product_title": "Bose QuietComfort 35 II",
+    "product_image": "https://i.ibb.co.com/k14wsHg/445316-Product-0-I-638615214609917900-600x600.webp",
+    "category": "Headphones",
+    "price": "299.99",
+    "description": "Premium noise-cancelling wireless headphones",
+    "specification": ["20 Hours Battery", "Bluetooth", "Alexa Voice Control"],
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "product_id": 8,
+    "product_title": "NVIDIA GeForce RTX 3080",
+    "product_image": "https://i.ibb.co.com/k14wsHg/445316-Product-0-I-638615214609917900-600x600.webp",
+    "category": "Graphics Cards",
+    "price": "699.99",
+    "description": "High-performance GPU for gaming and AI workloads",
+    "specification": ["10GB GDDR6X", "HDMI 2.1", "Ray Tracing"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 9,
+    "product_title": "Canon EOS R5",
+    "product_image": "https://i.ibb.co.com/k14wsHg/445316-Product-0-I-638615214609917900-600x600.webp",
+    "category": "Cameras",
+    "price": "3899.99",
+    "description": "Full-frame mirrorless camera with 8K video recording",
+    "specification": ["45MP Sensor", "ISO 100-51,200", "IBIS"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 10,
+    "product_title": "Amazon Echo Dot (4th Gen)",
+    "product_image": "https://i.ibb.co.com/k14wsHg/445316-Product-0-I-638615214609917900-600x600.webp",
+    "category": "Smart Home",
+    "price": "49.99",
+    "description": "Compact smart speaker with Alexa",
+    "specification": ["Alexa Voice Control", "Bluetooth", "LED Display"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 11,
+    "product_title": "HP Envy 13",
+    "product_image": "https://i.ibb.co.com/k14wsHg/445316-Product-0-I-638615214609917900-600x600.webp",
+    "category": "Laptops",
+    "price": "899.99",
+    "description": "Lightweight laptop with powerful performance",
+    "specification": ["8GB RAM", "512GB SSD", "Intel Core i7"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 12,
+    "product_title": "Fitbit Charge 5",
+    "product_image": "https://i.ibb.co.com/k14wsHg/445316-Product-0-I-638615214609917900-600x600.webp",
+    "category": "Fitness Trackers",
+    "price": "179.99",
+    "description": "Advanced fitness tracker with ECG and stress management",
+    "specification": ["GPS", "Heart Rate Monitor", "Stress Tracking"],
+    "availability": true,
+    "rating": 4.4
+  }
+]
